@@ -1,0 +1,30 @@
+{
+  "name": "koa-ejs2x",
+  "version": "1.0.0",
+  "description": "ejs 2.0 render middleware for koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "koa",
+    "render",
+    "ejs2.0",
+    "view"
+  ],
+  "author": {
+    "name": "Tivon",
+    "email": "m@brafox.com",
+    "url": "http://www.brafox.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "co-fs": "^1.2.0",
+    "copy-to": "^2.0.1",
+    "ejs": "^2.3.1",
+    "is-type-of": "^0.2.1"
+  },
+  "engine": {
+    "node": ">0.11"
+  }
+}
